@@ -1,5 +1,13 @@
-수현이 머싯어
-수현이 짱짱맨
-수현이 고생했어
-수현이 끄덕끄덕
-수현이 최고
+S.OWL 동아리 명단
+
+LSH (16)
+학과(학부) : 컴퓨터공학과
+관심분야 : Android, Java, Ios, Swift
+
+LMH (13)
+학과(학부) : 사회과학부
+관심분야 : Android, Kotlin, RxKotlin, Java&SpringFramework, MSA
+
+KNS (14)
+학과(학부) : 컴퓨터공학과
+관심분야 : Android, Java, Ios, Swift
